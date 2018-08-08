@@ -1,0 +1,5 @@
+how to open LXTerminal at start boot :
+https://www.raspberrypi.org/forums/viewtopic.php?t=199672
+
+how to run a script on raspberry (via .bashrc has been tested and the result is OK!!) :
+https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
